@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Dylan Vidal 👋
+I am a Computer Science student at the University of Central Florida, and an Aspiring Software Engineer. Feel free to take a look at my projects!
 
 <!--
 **DVidal1205/DVidal1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
